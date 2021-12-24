@@ -43,9 +43,10 @@ Here are some ideas to get you started:
 <h3 align="left"> Tools</h3>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khan-mujeeb&show_icons=true&locale=en&layout=compact" alt="khan-mujeeb" /></p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=khan-mujeeb)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khan-mujeeb&show_icons=true&locale=en&layout=compact" alt="khan-mujeeb" /></p>
+
 
 
 
