@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 >Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Mujeeb Khan</h1>
+<h1 >Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px">, I'm Mujeeb Khan</h1>
 <h3 >A passionate Coder from India</h3>
 
 #### Welcome to my GitHub profile 
