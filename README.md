@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khan-mujeeb&show_icons=true&locale=en" alt="khan-mujeeb" /></p>
 
 
-# Blog posts
+# ✍🏻 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Activity Life Cycle in Android](https://towardsdev.com/activity-life-cycle-in-android-4441757472ba?source=rss-b5a7fd5c66c1------2)
