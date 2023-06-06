@@ -23,4 +23,8 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Activity Life Cycle in Android](https://towardsdev.com/activity-life-cycle-in-android-4441757472ba?source=rss-b5a7fd5c66c1------2)
+- [Type of Classes in Kotlin](https://medium.com/@mujeebkhan1831/type-of-classes-in-kotlin-2237b70682fb?source=rss-b5a7fd5c66c1------2)
+- [How to Create Simple Docker Container Environment?](https://medium.com/@mujeebkhan1831/how-to-create-simple-docker-container-environment-a5213f838ebf?source=rss-b5a7fd5c66c1------2)
+- [How to implement dark and light theme in jetpack compose.](https://medium.com/@mujeebkhan1831/how-to-implement-dark-and-light-theme-in-jetpack-compose-f96e4cef3017?source=rss-b5a7fd5c66c1------2)
 <!-- BLOG-POST-LIST:END -->
