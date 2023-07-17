@@ -2,7 +2,9 @@
 <h3 align="center">A passionate android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khan-mujeeb&label=Profile%20views&color=0e75b6&style=flat" alt="khan-mujeeb" /> </p>
-
+<a href="https://play.google.com/store/apps/details?id=com.khandev.qrcodescanner"  align = "center">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80" width="230" />
+</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mujeebk51620752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mujeebk51620752" height="30" width="40" /></a>
