@@ -25,7 +25,7 @@
 # ✍🏻 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [&lt;HTML Snippets You Don&#39;t Know/&gt;](https://medium.com/@mujeebkhan1831/html-snippets-you-dont-know-c580837da628?source=rss-b5a7fd5c66c1------2)
+- [&lt;HTML Snippets You Don&#39;t Know/&gt;](https://towardsdev.com/html-snippets-you-dont-know-c580837da628?source=rss-b5a7fd5c66c1------2)
 - [Animated Login Screen using Rive in Android](https://medium.com/@mujeebkhan1831/animated-login-screen-using-rive-in-android-713f4120d190?source=rss-b5a7fd5c66c1------2)
 - [Comprehensive guide to create and publish your own android libraries](https://towardsdev.com/comprehensive-guide-to-create-and-publish-your-own-android-libraries-a941f72c73c7?source=rss-b5a7fd5c66c1------2)
 - [Take a look on some unknown Kotlin Operators](https://medium.com/@mujeebkhan1831/take-a-look-on-some-unknown-kotlin-operators-eb928cf32172?source=rss-b5a7fd5c66c1------2)
