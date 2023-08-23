@@ -25,7 +25,7 @@
 # ✍🏻 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn how to Create Simple AR app in Android](https://medium.com/@mujeebkhan1831/learn-how-to-create-simple-ar-app-in-android-703849166695?source=rss-b5a7fd5c66c1------2)
+- [Learn how to Create Simple AR app in Android](https://towardsdev.com/learn-how-to-create-simple-ar-app-in-android-703849166695?source=rss-b5a7fd5c66c1------2)
 - [&lt;HTML Snippets You Don&#39;t Know/&gt;](https://towardsdev.com/html-snippets-you-dont-know-c580837da628?source=rss-b5a7fd5c66c1------2)
 - [Animated Login Screen using Rive in Android](https://medium.com/@mujeebkhan1831/animated-login-screen-using-rive-in-android-713f4120d190?source=rss-b5a7fd5c66c1------2)
 - [Comprehensive guide to create and publish your own android libraries](https://towardsdev.com/comprehensive-guide-to-create-and-publish-your-own-android-libraries-a941f72c73c7?source=rss-b5a7fd5c66c1------2)
