@@ -25,8 +25,8 @@
 # ✍🏻 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to pass data or state between sibling components in React using Props](https://medium.com/@mujeebkhan1831/how-to-pass-data-or-state-between-sibling-components-in-react-using-props-cad6bd58e18b?source=rss-b5a7fd5c66c1------2)
 - [Learn how to Create Simple AR app in Android](https://towardsdev.com/learn-how-to-create-simple-ar-app-in-android-703849166695?source=rss-b5a7fd5c66c1------2)
 - [&lt;HTML Snippets You Don&#39;t Know/&gt;](https://towardsdev.com/html-snippets-you-dont-know-c580837da628?source=rss-b5a7fd5c66c1------2)
 - [Animated Login Screen using Rive in Android](https://medium.com/@mujeebkhan1831/animated-login-screen-using-rive-in-android-713f4120d190?source=rss-b5a7fd5c66c1------2)
-- [Comprehensive guide to create and publish your own android libraries](https://towardsdev.com/comprehensive-guide-to-create-and-publish-your-own-android-libraries-a941f72c73c7?source=rss-b5a7fd5c66c1------2)
 <!-- BLOG-POST-LIST:END -->
