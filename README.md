@@ -25,7 +25,7 @@
 # ✍🏻 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Must have Chrome Extension While applying for your dream job](https://towardsdev.com/the-must-have-chrome-extension-while-applying-for-your-dream-job-64890828572d?source=rss-b5a7fd5c66c1------2)
+- [The Must have Chrome Extension While applying for your dream job](https://medium.com/@mujeebkhan1831/the-must-have-chrome-extension-while-applying-for-your-dream-job-64890828572d?source=rss-b5a7fd5c66c1------2)
 - [How to pass data or state between sibling components in React using Props](https://medium.com/@mujeebkhan1831/how-to-pass-data-or-state-between-sibling-components-in-react-using-props-cad6bd58e18b?source=rss-b5a7fd5c66c1------2)
 - [Learn how to Create Simple AR app in Android](https://towardsdev.com/learn-how-to-create-simple-ar-app-in-android-703849166695?source=rss-b5a7fd5c66c1------2)
 - [&lt;HTML Snippets You Don&#39;t Know/&gt;](https://towardsdev.com/html-snippets-you-dont-know-c580837da628?source=rss-b5a7fd5c66c1------2)
