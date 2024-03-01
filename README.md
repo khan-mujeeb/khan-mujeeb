@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mujeeb Khan</h1>
-<h3 align="center">A passionate android and web developer from India</h3>
+<h1 align="center"><img width="50px" src="https://portfolio-khan-mujeeb.vercel.app/assets/Hi-af4378fa.gif"/>, I'm Mujeeb Khan</h1>
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=khan-mujeeb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+    
+</p>
+<p align="center">
+    <img src="https://github.com/khan-mujeeb/khan-mujeeb/assets/89351750/4ee00d97-d566-41d4-9f73-522fbfb48121" alt="Profile views">
+    
+</p>
+
+<h3 align="center">A passionate 👾android and 🕸️web developer from India</h3>
+
+<p align="center">
     <a href="https://portfolio-khan-mujeeb.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
     <a href="mailto:mujeeebkhan1831@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" alt="Mail"></a>
     <a href="https://twitter.com/mujeebk51620752" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"></a>
@@ -19,14 +29,14 @@
 
 </br>
 
-## Developer Portfolio
+## 💼 Developer Portfolio
 <p align="center">
     <a href="https://play.google.com/store/apps/dev?id=7315706573700759915" target="_blank"><img src="https://img.shields.io/badge/-Google%20Play-black?style=for-the-badge&logo=google-play" alt="Google Play"></a>
     <a href="https://medium.com/@mujeebkhan1831" target="_blank"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium" alt="Medium"></a>
     <a href="https://microsoftedge.microsoft.com/addons/search?hl=en-US&developer=Khan.dev" target="_blank"><img src="https://img.shields.io/badge/-Microsoft%20Store-black?style=for-the-badge&logo=microsoft" alt="Microsoft Store"></a>
     <a href="https://leetcode.com/mujeebkhan1831/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
     <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/mujeebkhan1831/" target="_blank"><img src="https://img.shields.io/badge/-GFG-black?style=for-the-badge&logo=geeksforgeeks" alt="GFG"></a>
-    <a href="https://www.youtube.com/channel/yourchannel" target="_blank"><img src="https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+    <a href="https://www.youtube.com/channel/UCMn2-rbHJtv0DdesKCDn_IA" target="_blank"><img src="https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube" alt="YouTube"></a>
 </p>
 
 
@@ -35,7 +45,7 @@
 
 </br>
 
-## Tech Stack I have worked on
+## ⚙️ Tech Stack I have worked on
 
 <p align="center">
     <img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react" alt="React js">
@@ -61,12 +71,19 @@
 </br>
 </br>
 
-### 📊 Github Stats
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khan-mujeeb&show_icons=true&locale=en&layout=compact" alt="khan-mujeeb" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khan-mujeeb&show_icons=true&locale=en" alt="khan-mujeeb" /></p>
 
-# ✍🏻 Blog posts
+## ⭐ Few of my awesome projects:
+- **Palette Pro**  - Generate Beautiful Color palette from image or explore new color [(link)](https://github.com/khan-mujeeb/Color-Palette)
+- **Muvii Deakho** - TMBD-based movie repository, explore latest released movies and tv shows [(link)](https://github.com/khan-mujeeb/Muvii-Deakho)
+- **Link Wallet**  - A simple yet useful Chrome extension solves the problem of managing social media links while applying for job [(link)](https://github.com/khan-mujeeb/Link-Wallet)
+- **Direct Message** - Android based chatting application [(link)](https://github.com/khan-mujeeb/Direct-Message)
+- **CryptoGo** - Android based crypto currency app, view, search and save new coin [(link)](https://github.com/khan-mujeeb/Crypto-Go)
+
+</br>
+
+## ✍🏻 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Learn to use video as Text background using CSS](https://mujeebkhan1831.medium.com/learn-to-use-video-as-text-background-using-css-030b743bb126?source=rss-b5a7fd5c66c1------2)
@@ -74,3 +91,16 @@
 - [How To Implement DarkMode in React Using Tailwind CSS](https://mujeebkhan1831.medium.com/how-to-implement-darkmode-in-react-using-tailwind-css-3c47d009209a?source=rss-b5a7fd5c66c1------2)
 - [The Must have Chrome Extension While applying for your dream job](https://mujeebkhan1831.medium.com/the-must-have-chrome-extension-while-applying-for-your-dream-job-64890828572d?source=rss-b5a7fd5c66c1------2)
 <!-- BLOG-POST-LIST:END -->
+
+</br>
+
+## 📊 Github Stats
+
+
+<div style="display: flex; gap: 20px">
+    <p><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=khan-mujeeb&show_icons=true&locale=en&layout=compact" alt="khan-mujeeb" /></p>
+    <p>&nbsp;<img    src="https://github-readme-stats.vercel.app/api?username=khan-mujeeb&show_icons=true&locale=en" alt="khan-mujeeb" /></p>
+</div>
+
+
+
