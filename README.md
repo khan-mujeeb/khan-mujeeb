@@ -17,7 +17,7 @@
     <a href="mailto:mujeeebkhan1831@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail" alt="Mail"></a>
     <a href="https://twitter.com/mujeebk51620752" target="_blank"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"></a>
     <a href="https://www.linkedin.com/in/mujeeb-ur-rahman-khan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin" alt="Linkedin"></a>
-    <a href="https://instagram.com/shreyaspatil.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+    <a href="https://www.instagram.com/m_for_mujeeb_?igsh=bXBwdWtqdHZ0Y3d2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram"></a>
 </p>
 
 
