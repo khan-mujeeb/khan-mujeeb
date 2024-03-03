@@ -86,10 +86,10 @@
 ## ✍🏻 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating an Interactive  Eye Animation with JavaScript](https://mujeebkhan1831.medium.com/creating-an-interactive-eye-animation-with-javascript-c7968101e2ab?source=rss-b5a7fd5c66c1------2)
 - [Learn to use video as Text background using CSS](https://mujeebkhan1831.medium.com/learn-to-use-video-as-text-background-using-css-030b743bb126?source=rss-b5a7fd5c66c1------2)
 - [How is JavaScript Code executed?](https://towardsdev.com/how-is-javascript-code-executed-d3ae1aa04ee7?source=rss-b5a7fd5c66c1------2)
 - [How To Implement DarkMode in React Using Tailwind CSS](https://mujeebkhan1831.medium.com/how-to-implement-darkmode-in-react-using-tailwind-css-3c47d009209a?source=rss-b5a7fd5c66c1------2)
-- [The Must have Chrome Extension While applying for your dream job](https://mujeebkhan1831.medium.com/the-must-have-chrome-extension-while-applying-for-your-dream-job-64890828572d?source=rss-b5a7fd5c66c1------2)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
